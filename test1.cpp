@@ -4,5 +4,6 @@ int main()
 {
     printf("Hello");
     printf("Hello Every one");
+    printf("Hows th josh!!")
     getch();
 }
