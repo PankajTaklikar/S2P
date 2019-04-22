@@ -1,2 +1,5 @@
  
  printf("hi")
+  
+  print()
+  print()
